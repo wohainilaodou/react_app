@@ -135,6 +135,8 @@
     ]
   },
   "devDependencies": {
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
     "node-sass": "^9.0.0"
   }
 }
